@@ -1,61 +1,144 @@
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=sushobhitjain.sushobhitjain&title=Visitors" alt="Visitor count" /> </p> <img src="https://github.com/Sushobhitbuiltbyblank/Sushobhitbuiltbyblank/blob/main/header.png" /> <div align="center">
+<p align="right"> 
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=sushobhitjain.sushobhitjain&title=Visitors" alt="Visitor count" /> 
+</p> 
+<img src="https://github.com/Sushobhitbuiltbyblank/Sushobhitbuiltbyblank/blob/main/header.png" /> 
+<div align="center">
+  
 **🌐 Connect with me:**
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushobhitjain/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushobhitbuiltbyblank/)
-  [![Medium](https://img.shields.io/badge/-Medium-02B875?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sushobhit)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushobhitjain/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushobhitbuiltbyblank/)
+[![Medium](https://img.shields.io/badge/-Medium-02B875?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sushobhit)
 
 Lead iOS Engineer focused on modular SDK architecture, scalable product development, and team integration.
 Crafting elegant, testable Swift code while aligning people, process, and platform.
 
 </div>
-🛠 Tech Stack
-<div align="center"> <!-- Languages & Frameworks --> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white"> <!-- Architecture & DI --> <img src="https://img.shields.io/badge/MVVM-Clean-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/Swinject-DI-informational?style=for-the-badge"> <!-- Async + Testing --> <img src="https://img.shields.io/badge/Async/Await-1C1C1E?style=for-the-badge&logo=swift&logoColor=34C759"> <img src="https://img.shields.io/badge/XCTest-34C759?style=for-the-badge&logo=swift&logoColor=white"> <!-- APIs + Networking --> <img src="https://img.shields.io/badge/URLSession-0D96F6?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/REST/JSON-000000?style=for-the-badge"> <!-- DevOps & Tooling --> <img src="https://img.shields.io/badge/Xcode-0D96F6?style=for-the-badge&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/Fastlane-00C7B7?style=for-the-badge&logo=fastlane&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </div>
-🧠 About Me
-swift
-Copy
-Edit
+
+----
+
+## 🛠 Tech Stack
+<div align="center">
+
+  <!-- 🌟 Lenguaje & Frameworks base -->
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/SwiftData-5C5C5C?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+
+  <!-- 🔁 Concurrencia -->
+  <img src="https://img.shields.io/badge/Async/Await-1C1C1E?style=for-the-badge&logo=swift&logoColor=34C759">
+
+  <!-- 🧪 Testing y documentación -->
+  <img src="https://img.shields.io/badge/Swift_Testing-34C759?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/DocC-0A84FF?style=for-the-badge&logo=googledocs&logoColor=white">
+
+  <!-- 🧠 AI & Developer Experience -->
+  <img src="https://img.shields.io/badge/Swift_Assist-F2F2F2?style=for-the-badge&logo=swift&logoColor=34C759">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+
+  <!-- 🔄 Modelado & APIs -->
+  <img src="https://img.shields.io/badge/Codable-000000?style=for-the-badge&logo=swift&logoColor=FA7343">
+  <img src="https://img.shields.io/badge/URLSession-0D96F6?style=for-the-badge&logo=apple&logoColor=white">
+
+  <!-- 🚀 Testing y distribución -->
+  <img src="https://img.shields.io/badge/TestFlight-007AFF?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Fastlane-00C7B7?style=for-the-badge&logo=fastlane&logoColor=white">
+
+  <!-- ⚙️ IDE, Versionado, CI/CD -->
+  <img src="https://img.shields.io/badge/Xcode-0D96F6?style=for-the-badge&logo=xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode_Cloud-333333?style=for-the-badge&logo=icloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+
+## 🧠 About Me
+
+```swift
 struct DeveloperProfile {
     let name = "Sushobhit Jain"
     let role = "Lead iOS Engineer"
-    let focus = "Modular SDKs, scalable architecture & team alignment"
+    let focus = "Native apps with Swift 6, SwiftUI, Modular SDKs, scalable architecture & Unit Test"
 
-    let platforms = ["iOS", "iPadOS", "visionOS"]
-    let languages = ["Swift", "Objective-C"]
+     // Apple ecosystems covered through a single codebase
+    let platforms = ["iOS", "iPadOS", "macOS", "watchOS"]
 
+    // Language at the heart of the Apple developer ecosystem
+    let languages = ["Swift 6"]
+
+    // Programming paradigms embraced in Swift + SwiftUI workflows
     let paradigms = [
-        "Protocol-Oriented",
-        "Reactive Programming",
-        "Declarative UI",
-        "Test-Driven Development"
+        "Declarative",        // Describes UI based on current state
+        "Reactive",           // UI updates automatically from state changes
+        "Functional",         // Immutability, value types, function composition
+        "Protocol-Oriented"   // Preferred abstraction in Swift (POP over OOP)
     ]
 
+    // Architectural styles aligned with scalable, testable SwiftUI apps
     let architecture = [
-        "MVVM",
-        "Modular-Clean Architecture",
-        "Coordinator Pattern"
+        "MVVM",                       // Clean separation between view and logic
+        "Clean Architecture",         // Layered responsibility and dependency rule
+        "Unidirectional Data Flow",   // Predictable state and interaction flow
     ]
 
+    // Core tech stack used in professional Apple development
+    let coreTechnologies = [
+        "SwiftUI",                // Apple's declarative UI framework
+        "Combine",                // Reactive programming and state propagation
+        "SwiftData",              // Native persistence framework (replaces Core Data)
+        "Async/Await",            // Modern concurrency model
+        "Concurrency with Actors",// Data safety across threads
+        "DocC",                   // Native documentation engine
+        "Swift Testing",          // New unit test framework tailored to SwiftUI
+        "URLSession"              // Networking layer with async integration
+    ]
+
+    // Tools that support a professional and efficient dev workflow
     let tools = [
-        "Xcode", "Swinject", "Fastlane", "XCTest",
-        "Git (with GitFlow)", "Bitrise", "Tuist"
+        "Xcode",                  // Core IDE for Apple development
+        "Xcode Cloud",            // Continuous integration and delivery
+        "Git (GitFlow)",          // Branching strategy for team development
+        "DocC",                   // Documentation-first approach
+        "Fastlane",               // Automating builds and App Store delivery
+        "Teams (team support)",   // Used during live mentoring and collaboration
+        "Swift Assist",           // Apple's AI-powered dev tool
+        "ChatGPT"                 // Generative AI assistant for productivity
     ]
 
-    let coreValues = [
-        "Clean Code & SOLID principles",
-        "Team Collaboration & Mentorship",
-        "Architecture that scales",
-        "Automated CI/CD pipelines",
-        "Documentation-first approach"
+    // Core values and development principles
+    let principles = [
+        "Clean Code",                   // Readable, maintainable and self-explanatory
+        "Modular Architecture",         // Feature isolation and scalability
+        "Performance Optimization",     // Responsiveness across devices
+        "UI/UX with purpose",           // Human-centered interface decisions
+        "Accessibility by default",     // Inclusive design built-in from the start
+        "Developer Experience (DX)"     // Tools and structure that empower the team
     ]
 
+    // Personal and professional mission as an Apple developer
     let goals = [
-        "Create robust SDKs used across multiple products",
-        "Mentor engineers and align cross-functional teams",
-        "Drive performance and maintainability across codebases",
-        "Embrace AI tools to supercharge developer workflows"
+        "Deliver maintainable and scalable apps across Apple platforms",
+        "Apply Apple's latest APIs and architectural standards effectively",
+        "Leverage AI tools to boost productivity without compromising quality",
+        "Teach, mentor, and grow alongside a like-minded developer community."
     ]
 }
-📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushobhitjain&show_icons=true&theme=tokyonight"> </div>
-🤝 Let's Collaborate
-<div align="center"> If you find value in my work, want to collaborate, or have a problem worth solving — let's talk!<br><br> </div> <div align="center"> <a href="https://www.buymeacoffee.com/sushobhitjain" target="_blank"> <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="174"> </a> </div>
+```
+
+##  📈 GitHub Stats
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sushobhitjain&show_icons=true&theme=tokyonight"> 
+</div>
+
+## 🤝 Let's Collaborate
+<div align="center"> 
+   If you enjoy my work, want to contribute or hire me, feel free to reach out or support what I do: <br><br> 
+</div> 
+<div align="center"> 
+  <a href="https://www.buymeacoffee.com/sushobhitjain" target="_blank"> 
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="174"> 
+  </a> 
+</div>
